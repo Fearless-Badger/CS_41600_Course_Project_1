@@ -1,4 +1,4 @@
-Project details
+Project Outline
 ---------------
 
 root
@@ -33,6 +33,36 @@ root
 |   |   +-- merge resolution
 |   |
 |   +-- project_report.docx
+|   |   +-- Table of contents
+|   |   +-- Table of figures
+|   |   +-- Abstract
+|   |   +-- Introducction
+|   |   +-- Creating group github repository
+|   |   +-- Installing VirtualBox and Ubuntu
+|   |   +-- Writing sorting scripts
+|   |   +-- Writing sorting scripts
+|   |   +-- How to branch and merge
+|   |   +-- Pushing changes to GitHub
+|   |   +-- Collaboration on GitHub (Pulling changes)
+|   |   +-- Conclusion
+|   |
 |   +-- presentation
+|   |   +-- Introduction
+|   |   +-- Creating group github repository
+|   |   +-- Installing VirtualBox and Ubuntu
+|   |   +-- How to branch and merge
+|   |   +-- Collaboration on GitHub (Pulling changes)
+|   |   +-- Conclusion
 |
-+-- README.md
++-- README.md - Repository information
+
+
+
+----- NOTES -----
+* Document work on self contained sorting scripts
+    - Each member documents their workflow in the written report
+
+* Have each member create a branch
+    - merge branches back into main
+
+* 
