@@ -1,0 +1,38 @@
+Project details
+---------------
+
+root
+|
++-- C
+|   +-- bubble_sort.c
+|   +-- insertion_sort.c
+|   +-- merge_sort.c
+|   +-- quick_sort.c
+|   +-- selection_sort.c
+|
++-- Java
+|   +-- bubble_sort.java
+|   +-- insertion_sort.java
+|   +-- merge_sort.java
+|   +-- quick_sort.java
+|   +-- selection_sort.java
+|
++-- Python
+|   +-- bubble_sort.py
+|   +-- insertion_sort.py
+|   +-- merge_sort.py
+|   +-- quick_sort.py
+|   +-- selection_sort.py
+|
++-- Docs
+|   +-- screenshots
+|   |   +-- Creating github repository
+|   |   +-- Install VirtualBox
+|   |   +-- Branching and Merging
+|   |   +-- share and update
+|   |   +-- merge resolution
+|   |
+|   +-- project_report.docx
+|   +-- presentation
+|
++-- README.md
