@@ -9,8 +9,8 @@ Team 3 = Lazar, Leonardo
 Team 4 = Joel , Justin
 Team 5 = Micah, Mason
 
-Project Outline
----------------
+GitHub Repo
+-----------
 
     root
     |
@@ -35,17 +35,24 @@ T5  |   +-- merge_sort.py
 T5  |   +-- quick_sort.py
 T5  |   +-- selection_sort.py
     |
-    +-- Docs
-    |   +-- screenshots
-    |   |   +-- Creating github repository
-    |   |   +-- Install VirtualBox
-    |   |   +-- Branching and Merging
-    |   |   +-- share and update
-    |   |   +-- merge resolution
+    +-- README.md - Repository information
+
+
+
+Google Drive
+------------
+
+    CS_416_Drive
+    |   +-- screenshots - Or just insert screenshots directly into the report and slides
+T5  |   |   +-- Creating github repository
+T1  |   |   +-- Install VirtualBox
+T2  |   |   +-- Writing sorting scripts
+T3  |   |   +-- Branching and Merging
+T4  |   |   +-- share and update
+T1  |   |   +-- Collaboration
     |   |
     |   +-- project_report
     |   |   +-- Table of contents
-    |   |   +-- Table of figures
 T5  |   |   +-- Abstract
 T5  |   |   +-- Introduction
 T5  |   |   +-- Creating group github repository 
@@ -65,8 +72,6 @@ T3  |   |   +-- How to branch and merge
 T4  |   |   +-- Pushing changes to GitHub
 T1  |   |   +-- Collaboration on GitHub
 T5  |   |   +-- Conclusion
-    |
-    +-- README.md - Repository information
 
 
 ----- NOTES -----
