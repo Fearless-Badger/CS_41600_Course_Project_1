@@ -76,5 +76,4 @@ public class quick_sort
 		System.out.print("\n");
 	}
 }
-// Comment Test for merge example
-
+// No more merge conflicts (2nd example)!
