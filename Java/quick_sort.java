@@ -57,22 +57,23 @@ public class quick_sort
 		System.out.println("Test Case 1: Before Sorting");
 		printArray(test1);
 		quickSort(test1, 0, test1.length - 1);
-		System.out.println("Test Case 1: After Sorting:");
+		System.out.println("After Sorting:");
 		printArray(test1);
 		System.out.print("\n");
 
                 System.out.println("Test Case 2: Before Sorting");
                 printArray(test2);
                 quickSort(test2, 0, test2.length - 1);
-                System.out.println("Test Case 2: After Sorting:");
+                System.out.println("After Sorting:");
                 printArray(test2);
 		System.out.print("\n");
 
                 System.out.println("Test Case 3: Before Sorting");
                 printArray(test3);
                 quickSort(test3, 0, test3.length - 1);
-                System.out.println("Test Case 3: After Sorting:");
+                System.out.println("After Sorting:");
                 printArray(test3);
 		System.out.print("\n");
 	}
 }
+// Comment Test for merge example
