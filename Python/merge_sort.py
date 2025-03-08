@@ -32,3 +32,20 @@ def merge(arr, l, m, r):
         j += 1
         k += 1
 
+def merge_sort(arr, l, r):
+    if l < r:
+        m = l+(r-l)//2
+
+        merge_sort(arr, l, m)
+        merge_sort(arr, m+1, r)
+        merge(arr, l, m, r)
+
+if __name__ == "__main__":
+    arr = [12, 11, 13, 5, 6, 7]
+    n = len(arr)
+    print()
+    print(f"\nStarting array : {arr}")
+
+    merge_sort(arr, 0, n-1)
+
+    print(f"Sorted array   : {arr}\n")
