@@ -1,5 +1,5 @@
 /* Function to sort array using insertion sort */
-public class InsertionSort {
+public class insertion_sort {
     void sort(int arr[])
     {
         int n = arr.length;
@@ -32,7 +32,7 @@ public class InsertionSort {
 	int arr2[] = { 10, 8, 6, 4, 2, 7 };
 	int arr3[] = { 4, 12, 0, 21, 105, 17 };
 
-        InsertionSort ob = new InsertionSort();
+        insertion_sort ob = new insertion_sort();
 
 	System.out.print("Test case 1: ");
 	printArray(arr);
