@@ -57,26 +57,28 @@ T5  |   |   +-- Abstract
 T5  |   |   +-- Introduction
 T5  |   |   +-- Creating group github repository 
 T1  |   |   +-- Installing VirtualBox and Ubuntu (be brief, as this is not project focus)
-T2  |   |   +-- Writing sorting scripts (nano, git commits)
+T1  |   |   +-- Writing sorting scripts (nano, git commits)
 T3  |   |   +-- How to branch and merge changes
-T4  |   |   +-- Pushing changes to GitHub (publishing branches)
-T1  |   |   +-- Collaboration on GitHub (git fetch vs. git pull)
+T4  |   |   +-- Pushing changes to GitHub (publishing branches, git fetch vs. git pull)
+T2  |   |   +-- (Benefits of) Collaboration on GitHub
 T5  |   |   +-- Conclusion
     |   |
-    |   +-- presentation
+    |   +-- presentation 
 T5  |   |   +-- Introduction
 T5  |   |   +-- Creating group github repository
 T1  |   |   +-- Installing VirtualBox and Ubuntu
-T2  |   |   +-- Writing sorting scripts
+T1  |   |   +-- Writing sorting scripts
 T3  |   |   +-- How to branch and merge
 T4  |   |   +-- Pushing changes to GitHub
-T1  |   |   +-- Collaboration on GitHub
+T2  |   |   +-- (Benefits of) Collaboration on GitHub
 T5  |   |   +-- Conclusion
 
 
 ----- NOTES -----
 
-* Each team should update the table of contents and table of figures as they work on the report
+* Don't worry about uplading the screenshots to the drive folder
+
+* Members of team 2 are not engaged
 
 * Document work on self contained sorting scripts
 
