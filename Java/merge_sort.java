@@ -1,6 +1,6 @@
 // Java program for Merge Sort
 
-class MergeSort {
+class merge_sort {
   
     // Merges two subarrays of a[]
     void merge(int a[], int l, int m, int r)
@@ -73,7 +73,7 @@ class MergeSort {
 	int a3[] = { 0, 4, 3, 9, 1, 10, 10 };
 
         // Calling of Merge Sort for array 1
-        MergeSort ob = new MergeSort();
+        merge_sort ob = new merge_sort();
 
 	System.out.print("Test case 1: ");
 	for(int i = 0; i < a.length; ++i)
