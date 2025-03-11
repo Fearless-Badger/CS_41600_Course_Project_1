@@ -12,3 +12,18 @@ def insertion_sort(arr):
             j -= 1  
 
         arr[j + 1] = key  
+if __name__ == "__main__":
+    test_cases = [
+        [5, 3, 8, 6, 2],         # Random order
+        [1, 2, 3, 4, 5],         # Already sorted
+        [5, 4, 3, 2, 1],         # Reverse order
+        [10],                    # Single element
+        [],                      # Empty list
+        [4, 4, 4, 4]             # All elements the same
+    ]
+
+    for arr in test_cases:
+        print("Original:", arr)
+        insertion_sort(arr)  # Call sorting function
+        print("Sorted:", arr)
+
